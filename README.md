@@ -19,5 +19,7 @@ Welcome to my very first GitHub project! This is a simple **Basic Calculator** b
 - **JavaScript** – For calculator logic and interactivity
 
 
+![Screenshot 2025-06-07 102238](https://github.com/user-attachments/assets/39b77d5c-7e9c-46d7-927d-449e5433d571)
+
 
 
